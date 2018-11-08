@@ -13,7 +13,7 @@ You can walk back and forth between rooms freely.
 
 Return true if and only if you can enter every room.
 
-Runtime: 13ms, 9.53th percentile
+Runtime: 7ms, 63.53th percentile
 */
 
 class Solution {
